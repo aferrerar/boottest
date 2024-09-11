@@ -30,6 +30,12 @@
     padding: 5px; /* Optional: Add padding for spacing */
 }
 
+.fanalet-icon {
+    font-size: 5rem; /* Adjust this value for your desired size */
+    color: #ffc107;  /* Optional: Change the color of the icon */
+}
+
+
 /* FOOTER */
 .footer {
     background-color: #000;
